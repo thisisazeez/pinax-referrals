@@ -362,6 +362,8 @@ Example:
 {% endfor %}
 ```
 
+
+
 #### `action_display`
 
 This filter converts a response code into a user friendly display of what that
@@ -572,3 +574,6 @@ For updates and news regarding the Pinax Project, please follow us on Twitter [@
 ## License
 
 Copyright (c) 2012-present James Tauber and contributors under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
